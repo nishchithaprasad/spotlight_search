@@ -1,4 +1,4 @@
-# spotlight_search
+# Simple search application
 
 Search application using NodeJS server
 
